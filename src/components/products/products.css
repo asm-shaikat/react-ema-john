@@ -1,0 +1,17 @@
+.products-container{
+    display: flex;
+    border: 1px solid gray;
+    /* border-right: 1px solid gray; */
+    margin-bottom: 50px;
+    margin-top: 8px;
+}
+.product-details{
+    margin-left: 10px;
+}
+.product-details button{
+    margin-bottom: 20px;
+    background-color: yellow;
+    width: 120px;
+    padding: 5px;
+    border-radius: 5px;
+}

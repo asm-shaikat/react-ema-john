@@ -1,0 +1,8 @@
+.shop{
+    display: flex;
+}
+.product{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
